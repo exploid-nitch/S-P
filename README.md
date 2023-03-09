@@ -1,4 +1,4 @@
-### Hi there, I'm S-PROJECT HACK 👋
+### Hi there, I'm  HACK 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/exploid-nitch/badges/large"/><br /><br />
